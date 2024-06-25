@@ -31,3 +31,29 @@ var q=null;
 var r=undefined;
 console.log(x,y,z,p,q,r)
 console.log(typeof x,typeof y,typeof z,typeof p,typeof q,typeof r)
+
+
+let o={//this is the object in java script
+    gagan:349,
+    "job code":343,
+    istrue:true
+//   key:value pair this is 
+}
+console.log(o)
+o.new="this is the new content"
+console.log(o)
+
+
+
+//question Write a js program to sotre name phone no mark of the student using javascript
+
+let detail={
+    name:"gagan",
+    phoneno:42342342,
+    markavg:3424
+}
+console.log(detail)
+detail.name1="shubam"
+detail.phno2=3432423
+detail.avgmark2=22423
+console.log(detail)
