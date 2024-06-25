@@ -8,4 +8,4 @@ var b=prompt("enter your no ")
 c=parseInt(a)
 d=parseInt(b)
 
-alert(c+d)
+alert(c+d)// this is only run in the browser not in repl 
