@@ -5,3 +5,13 @@ for(let a=0;a<=10;a++){
     console.log(a);
     
 }
+let obj={
+    name:'gagan',
+    role:"programer"
+}
+for (const key in obj) {
+    const ele=obj[key];
+        
+    console.log(key,ele);
+    
+}
