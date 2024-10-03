@@ -15,3 +15,17 @@ for (const key in obj) {
     console.log(key,ele);
     
 }
+for (const c of 'gagan') {
+   
+ console.log(c);
+ 
+ 
+}
+
+let ii=0
+while(ii<10){
+    console.log(ii);
+    ii++
+    
+}
+
