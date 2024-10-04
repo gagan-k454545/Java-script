@@ -26,6 +26,13 @@ let ii=0
 while(ii<10){
     console.log(ii);
     ii++
+
     
 }
-
+console.log("this is for do while loop ");
+let iii=0
+do {
+    console.log(iii);
+    iii++;
+    
+} while (iii<10);
